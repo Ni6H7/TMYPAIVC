@@ -1,3 +1,4 @@
+print ("@Ni6H7");
 //Created for informational purposes
 //Updated 06.03.2022 Before Public Release
 var IpCheckURL = ""
